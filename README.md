@@ -62,12 +62,3 @@ The analysis resulted in a set of data-driven strategic recommendations:
   * **Language:** Python
   * **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Statsmodels, XGBoost, Plotly, SHAP, SciPy
 
-## 8\. How to Run
-
-1.  Clone this repository to your local machine.
-2.  Install the required libraries. It is recommended to create a `requirements.txt` file and run:
-    ```
-    pip install -r requirements.txt
-    ```
-3.  Place the three dataset files (`sales data-set.csv`, `stores data-set.csv`, `Features data set.csv`) in the root directory.
-4.  Open and run the Jupyter Notebook `Retail Store Analytics.ipynb`.
